@@ -8,7 +8,7 @@
 selenuim
 schedule
 
-另外需要额外下载chromedriver程序放在anaconda和chrome的文件夹中
+另外需要额外下载[chromedriver程序](https://chromedriver.chromium.org/)放在anaconda和chrome的文件夹中
 
 
 # main.py
