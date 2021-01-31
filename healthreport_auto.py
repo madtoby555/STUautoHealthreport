@@ -41,10 +41,11 @@ def automateSign( user ):
     'importantPersonType': 4,
     'dailyReport.afternoorBodyHeat': 36.0,
     'dailyReport.forenoonBodyHeat': 36.0,
-    'dailyReport.currentAddr.province': '四川',
-    'dailyReport.currentAddr.city': '自贡',
-    'dailyReport.currentAddr.dist': '富顺县',
-    'dailyReport.currentAddr.detailAddr': '滨江一号',
+     # 将接下来的5个空字符修改为相应的内容
+    'dailyReport.currentAddr.province': '',#自己所在省
+    'dailyReport.currentAddr.city': '',#所在市
+    'dailyReport.currentAddr.dist': '',#所在区
+    'dailyReport.currentAddr.detailAddr': '',#具体位置
     'dailyReport.hasCough': 'false',
     'dailyReport.hasShortBreath': 'false',
     'dailyReport.hasWeak': 'false',
