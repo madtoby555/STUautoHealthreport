@@ -5,7 +5,7 @@
 使用时运行main文件，将user修改为自己的用户名和密码，自己设定几时运行
 
 ## 需要额外安装的依赖
-selenuim
+selenuim  
 schedule
 
 另外需要额外下载[chromedriver程序](https://chromedriver.chromium.org/)放在anaconda和chrome的文件夹中
