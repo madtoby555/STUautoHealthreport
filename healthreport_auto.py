@@ -41,7 +41,7 @@ def automateSign( user ):
     'importantPersonType': 4,
     'dailyReport.afternoorBodyHeat': 36.0,
     'dailyReport.forenoonBodyHeat': 36.0,
-     # 将接下来的5个空字符修改为相应的内容
+     # 将接下来的4个空字符修改为相应的内容
     'dailyReport.currentAddr.province': '',#自己所在省
     'dailyReport.currentAddr.city': '',#所在市
     'dailyReport.currentAddr.dist': '',#所在区
